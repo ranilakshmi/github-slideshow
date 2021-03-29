@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Who am I?"
 ---
-"It is our choices,that show what we truly are,far more than our abilities"
-Use the left arrow to go back!
+"I am a second year computer science student in Amrita Vishwa Vidyapeetham"
